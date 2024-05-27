@@ -1,0 +1,4 @@
+1,Sethy Vitra,Male,01-01-1998,099788212,Takhmao,8,2,bachelor,null
+2,Son Chengchhay,Male,31-04-2000,010752924,Takhmao,8,2,bachelor,1
+3,Seng Rathanavibol,Male,02-02-2004,087123443,Phnom Penh,8,2,Bachelor,null
+4,Phearum Sivmeng,Male,11-02-2000,010988821,Phnom Penh,8,2,Bachelor,null

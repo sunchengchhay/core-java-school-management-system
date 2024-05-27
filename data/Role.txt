@@ -1,0 +1,2 @@
+1,Teacher
+2,Student

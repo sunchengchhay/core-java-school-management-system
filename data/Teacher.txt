@@ -1,0 +1,3 @@
+1,vitra,Male,21-02-1991,010292872,Takhmao,1,2
+2,sonchhay,Male,21-02-1991,012323833,Takhmao,1,4
+3,sivmeng,Male,02-02-2002,091320811,Takhmao,1,3
